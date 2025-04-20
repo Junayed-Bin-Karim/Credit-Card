@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is a dynamic and visually appealing credit card form built using Vue.js. It provides a real-time preview of the credit card as the user enters information, enhancing the user experience.
+# Credit-Card-Form
+
+See live version on my codepen: https://codepen.io/Afarah92/live/jOrNbEN
 
 ## Features
 
